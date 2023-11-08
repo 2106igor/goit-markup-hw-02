@@ -67,3 +67,14 @@ footer {
 .logo .web {
     color: #4d5ae5;
 }
+.logo .web2 {
+    color:#F4F4FD;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1,16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
