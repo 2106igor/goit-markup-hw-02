@@ -12,6 +12,7 @@ body {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
+    background-color: #ffffff;
 }
 h1 {
     font-size: 56px;
@@ -34,7 +35,7 @@ p {
     color: #434455;
 }
 a {
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.33;
     color: #2e2f42;
 }
@@ -62,4 +63,11 @@ footer {
 }
 .h1-and-button {
     background-color: #2e2f42;
+}
+.logo {
+    font-family: 'Raleway', sans-serif;
+    color: #2e2f42;
+}
+.logo .web {
+    color: #4d5ae5;
 }
