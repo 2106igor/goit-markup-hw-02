@@ -1,0 +1,65 @@
+.link:hover {
+    color: #404bbf;
+}
+.link:active {
+    color: #404bbf;
+}
+.link:focus {
+    color: #404bbf;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    color: #fff;
+}
+h2 {
+    font-size: 36px;
+    line-height: 1.66;
+    color: #2e2f42;
+}
+h3 {
+    font-size: 20px;
+    line-height: 3;
+    color: #2e2f42;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+a {
+    font-size: 12px;
+    line-height: 1.33;
+    color: #2e2f42;
+}
+button {
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    cursor: pointer;
+}
+button:hover {
+    color: #404bbf;
+}
+.team {
+    background-color: #f4f4fd;
+}
+.adventage {
+    background-color: #fff;
+}
+.portfolio {
+    background-color: #fff;
+}
+footer {
+    background-color: #2e2f42;
+}
+.h1-and-button {
+    background-color: #2e2f42;
+}
