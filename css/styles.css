@@ -126,6 +126,18 @@ body {
     cursor: pointer;
     background-color: #404BBF;
 }
+.first-button:focus {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+    border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #404BBF;
+}
 .advantage {
     background-color: #FFF;
 }
@@ -134,12 +146,12 @@ body {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
 }
-h3 {
+.adv-list {
     color: #2E2F42;
     font-size: 20px;
     font-style: normal;
@@ -163,10 +175,21 @@ h3 {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
+}
+.workers-list {
+    background-color: #FFFFFF
+}
+.workers {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
 }
 .team-p {
     color: #434455;
@@ -184,10 +207,18 @@ h3 {
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
+}
+.service {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
 }
 .port-p {
     color: #434455;
@@ -207,7 +238,7 @@ h3 {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -216,7 +247,7 @@ h3 {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1, 16;
+    line-height: 1.16;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -227,6 +258,6 @@ h3 {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
