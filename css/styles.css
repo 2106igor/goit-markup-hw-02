@@ -4,15 +4,16 @@ body {
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,4;
+    line-height: 1.4;
+    background-color: #FFFFFF;
 }
-.logo {
+.logo-head {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,16;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -22,7 +23,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,16;
+    line-height: 1.16;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -39,7 +40,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .headlink:focus {
@@ -47,7 +48,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .headlink:active {
@@ -55,7 +56,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .address-link {
@@ -63,7 +64,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .address-link:hover {
@@ -71,7 +72,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .address-link:focus {
@@ -79,7 +80,7 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .address-link:active {
@@ -87,28 +88,35 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 .title {
-    color: #FFF;
     background-color: #2E2F42;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,07;
+    line-height: 1.07;
     letter-spacing: 1.12px;
+}
+.logo-title {
+    color: #FFF;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+    text-align: center;
 }
 .first-button {
     color: #FFFFFF;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.64px;
     border-radius: 4px;
     background-color: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     cursor: pointer
 }
 .first-button:hover {
@@ -116,16 +124,41 @@ body {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1, 5;
+    line-height: 1.5;
     letter-spacing: 0.64px;
     border-radius: 4px;
     border-radius: 4px;
     background-color: #404BBF;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     cursor: pointer
 }
 .advantage {
     background-color: #FFF;
+}
+.logo-advantage {
+    color: #2E2F42;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    text-align: center;
+}
+h3 {
+    color: #2E2F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+.adventage-p {
+    color: #2E2F42;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
 }
 .team {
     background-color: #F4F4FD;
@@ -133,7 +166,7 @@ body {
 .portfolio {
     background-color: #FFF;
 }
-footer {
+.footer {
     color: #F4F4FD;
     background-color: #2E2F42;
 }
@@ -143,7 +176,7 @@ footer {
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1,16;
+    line-height: 1,17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -156,35 +189,13 @@ footer {
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
-h1 {
-    font-size: 56px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1,07;
-    letter-spacing: 1.12px;
-}
-h2 {
-    color: #2E2F42;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1,11;
-    letter-spacing: 0.72px;
-    text-transform: capitalize;
-}
-h3 {
-    color: #2E2F42;;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1,2;
-    letter-spacing: 0.4px;
-}
-p {
-    color: #2E2F42;
+
+.footer-p {
+    color: #F4F4FD;
+    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 1,5;
     letter-spacing: 0.32px;
 }
