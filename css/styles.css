@@ -3,7 +3,6 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-style: normal;
-    font-weight: 500;
     line-height: 1.4;
     background-color: #FFFFFF;
 }
@@ -14,7 +13,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .logo-studio {
@@ -24,7 +23,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.16;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .headlink {
@@ -33,7 +32,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .headlink:hover {
     color: #404BBF;
@@ -41,7 +40,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .headlink:focus {
     color: #404BBF;
@@ -49,7 +48,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .headlink:active {
     color: #404BBF;
@@ -57,7 +56,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .address {
     color: #434455;
@@ -65,7 +64,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .address-link {
     color: #434455;
@@ -73,7 +72,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .address-link:hover {
     color: #404BBF;
@@ -81,7 +80,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .address-link:focus {
     color: #404BBF;
@@ -89,7 +88,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .address-link:active {
     color: #404BBF;
@@ -97,7 +96,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .title {
     background-color: #2E2F42;
@@ -108,7 +107,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 .first-button {
@@ -117,7 +116,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     background-color: #4D5AE5;
     cursor: pointer
 }
@@ -127,7 +126,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     cursor: pointer;
     background-color: #404BBF;
 }
@@ -137,7 +136,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     cursor: pointer;
     background-color: #404BBF;
 }
@@ -150,7 +149,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
@@ -160,7 +159,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 .adventage-p {
     color: #434455;
@@ -168,7 +167,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .team {
     background-color: #F4F4FD;
@@ -179,7 +178,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
@@ -192,7 +191,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 .team-p {
     color: #434455;
@@ -200,7 +199,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .portfolio {
     background-color: #FFF;
@@ -211,7 +210,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
 }
@@ -221,7 +220,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 .port-p {
     color: #434455;
@@ -229,7 +228,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .footer {
     color: #F4F4FD;
@@ -242,7 +241,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .logo-f .studio-f {
@@ -251,7 +250,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.16;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -262,5 +261,12 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
 }
